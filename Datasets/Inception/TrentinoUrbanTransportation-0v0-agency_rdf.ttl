@@ -1,0 +1,7 @@
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_url> "https://www.trentinotrasporti.it/" .
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_name> "Trentino trasporti S.p.A." .
+<http://localhost:8080/source/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Transportation_agency> .
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_language> "it" .
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_timezone> "Europe/Rome" .
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_phone> "+39 0461 821000" .
+
