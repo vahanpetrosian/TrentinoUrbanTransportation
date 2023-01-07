@@ -2,14 +2,18 @@
 title: Trentino Urban Transportation
 ---
 
-**Authors:** Diego Barquero Morera ([email](mailto:diego.barqueromorera@studenti.unitn.it)) and Vahan Petrosyan ([email](mailto:vahan.petrosyan@studenti.unitn.it))
+**Authors:** Diego Barquero Morera  and Vahan Petrosyan
+
+**Contact Information:** *<diego.barqueromorera@studenti.unitn.it>*, *<vahan.petrosyan@studenti.unitn.it>*
 
 ## Introduction
+
 This project discusses the development of a Knowledge Graph which aim is to provide an easy and convenient access to the information about bus stops, train stations and timetables of the trips inside the urban area of Trentino region. The project development phases followed the iTelos methodology due to the fact that it ensures the reusability of the resources handled and produced during each stage. 
 
 The final solution has been obtained by the integration of static transportation data from different sources and producing a reusable ontology which are discussed in the following sections. 
 
 ## Purpose
+
 The developed Knowledge Graph satisfies the following purpose:
 
 &emsp; *"A person currently in an urban area of Trentino region wants to easily move from one place to another by means of public transportation."*
