@@ -10,6 +10,6 @@ url: "https://vahanpetrosian.github.io" # the base hostname & protocol for your 
 github_username:  vahanpetrosian
 github_username:  DiegoBarqueroMorera
 # Build settings
-theme: type-on-strap
+theme: minima
 plugins:
   - jekyll-feed
