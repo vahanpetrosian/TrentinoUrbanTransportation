@@ -1,7 +1,5 @@
 title: Knowledge Graph Egineering 2022
-emails:
-  - vahan.petrosyan@studenti.unitn.it
-  - diego.barqueromorera@studenti.unitn.it
+email: vahan.petrosyan@studenti.unitn.it
 description: >- # this means to ignore newlines until "baseurl:"
   Reusability is one of the main principles in the Knowledge Graph Engineering (KGE) process defined by iTelos. 
   The current webpage provides detailed information about the resources produced during each development phase of the ”Trentino Urban Transportation” KGE project.
