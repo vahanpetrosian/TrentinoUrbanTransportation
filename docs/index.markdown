@@ -1,4 +1,6 @@
-# Trentino Urban Transportation
+---
+title: Trentino Urban Transportation
+---
 
 **Authors:** Diego Barquero Morera ([email](mailto:diego.barqueromorera@studenti.unitn.it)) and Vahan Petrosyan ([email](mailto:vahan.petrosyan@studenti.unitn.it))
 
