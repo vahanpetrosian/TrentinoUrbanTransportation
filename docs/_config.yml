@@ -1,14 +1,14 @@
-title: Trentino Urban Transportation
-email: your-email@example.com
+title: Trentino Urban Transportation - Knowledge Graph Egineering 2022
+email: vahan.petrosyan@studenti.unitn.it
+email: diego.barqueromorera@studenti.unitn.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Reusability is one of the main principles in the Knowledge Graph Engineering (KGE) process defined by iTelos. The key point in the KGE project development is the documentation which plays a crucial role in the enhancement of the reusabiltiy of the resources handled and produced during the process. 
+  The current webpage provides detailed information about the resources produced during each development phase of the ”Trentino Urban Transportation” KGE project.
 baseurl: "/TrentinoUrbanTransportation" # the subpath of your site, e.g. /blog
 url: "https://vahanpetrosian.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  vahanpetrosian
-
+github_username:  DiegoBarqueroMorera
 # Build settings
 theme: type-on-strap
 plugins:
