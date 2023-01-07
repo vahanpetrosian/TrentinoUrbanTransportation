@@ -1,18 +1,14 @@
-title: |
-  Trentino Urban Transportation
-  Knowledge Graph Egineering 2022
-email: |
-  vahan.petrosyan@studenti.unitn.it
-  diego.barqueromorera@studenti.unitn.it
+title: Knowledge Graph Egineering 2022
+emails:
+  - vahan.petrosyan@studenti.unitn.it
+  - diego.barqueromorera@studenti.unitn.it
 description: >- # this means to ignore newlines until "baseurl:"
   Reusability is one of the main principles in the Knowledge Graph Engineering (KGE) process defined by iTelos. 
   The current webpage provides detailed information about the resources produced during each development phase of the ”Trentino Urban Transportation” KGE project.
 baseurl: "/TrentinoUrbanTransportation" # the subpath of your site, e.g. /blog
 url: "https://vahanpetrosian.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username: |
-  vahanpetrosian
-  DiegoBarqueroMorera
+github_username: vahanpetrosian
 # Build settings
 theme: minima
 plugins:
