@@ -61,20 +61,15 @@ The finalization of the ETG considered the sanitization of the entity under non 
 
 ## KG
 
-The final stage includes the development of EG from ETG and the adujusted data by Karmalinker. As a result, the obtained Knowledge Graph includes 6 etypes, 21 data properties and 5 object properties, namely, *has_calendar, has_lines, has_schedule, has_stops and has_trips*.
+The final stage includes the development of EG from ETG and the adjusted data by Karmalinker. As a result, the obtained Knowledge Graph includes 6 etypes, 21 data properties and 5 object properties, namely, *has_calendar, has_lines, has_schedule, has_stops and has_trips*.
 
-The final KG has been used for the development of SPARQL queries to answer the Competency Queries. 
+The final KG has been used for answering the Competency Queries by SPARQL queries. 
 
-## Resources
+## Report
+<https://github.com/vahanpetrosian/TrentinoUrbanTransportation/blob/main/Documentation/Project%20Report.pdf>
 
-### Report
-<>
+## Presentation
+<https://github.com/vahanpetrosian/TrentinoUrbanTransportation/blob/main/Documentation/Project%20Presentation.pdf>
 
-### GitHub
+## GitHub
 <https://github.com/vahanpetrosian/TrentinoUrbanTransportation>
-
-### Google Drive
-<>
-
-
-
